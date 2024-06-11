@@ -1,6 +1,6 @@
 ## Diego-YL-177 💭
 <p align="center">
-<img src="https://telegra.ph/file/4b6db6e5419324c9109f2.jpg" alt="OfcDiego" width="900"/>
+<img src="https://telegra.ph/file/56083be65f6d4ea5acc85.jpg" alt="OfcDiego" width="900"/>
 </p>
 ------------------
 
