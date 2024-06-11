@@ -1,6 +1,6 @@
-## `MI PERFIL`
+## MI PERFIL 🥷
 
-  <a href="https://github.com/Diego-YL-177"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola+Soy+Ofc+Diego.+Creador+de+YoshikoBot.&image=https://telegra.ph/file/56083be65f6d4ea5acc85.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ofc._.diego&whatsapp=Ofc_Diego&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/Diego-YL-177"><img src="https://cardivo.vercel.app/api?name=Diego-YL-177&description=Hola+Soy+Ofc+Diego.+Creador+de+YoshikoBot.&image=https://telegra.ph/file/56083be65f6d4ea5acc85.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ofc._.diego&whatsapp=Ofc_Diego&pattern=leaf&colorPattern=%23eaeaea" /><a>
  
 
 <!--
@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 
 
 
-### `ESTADÍSTICAS`
+### ESTADÍSTICAS 🏆
 
 ![Ofc GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-YL-177\&rank_icon=github&theme=algolia&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-YL-177&theme=algolia&locale=es)](https://github.com/Diego-YL-177)
 ![counter](https://komarev.com/ghpvc/?username=Diego-YL-177&style=flat-square&theme=algolia&locale=es)
 </a>
 
-### `MI PROYECTO`
+### MI PROYECTO 💭
 
 <a href="https://github.com/Diego-YL-177/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Diego-YL-177&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
 
-### `COLABORACIONES`
+### COLABORACIONES ✨️
 
 <a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=react&locale=es)</a>
 
