@@ -4,7 +4,7 @@
  
 
 <!--
-**Diego-YL-177/Diego-YL-177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OfcDiego/OfcDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ### ESTADÍSTICAS 🏆
 
-![Ofc GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-YL-177\&rank_icon=github&theme=algolia&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-YL-177&theme=algolia&locale=es)](https://github.com/Diego-YL-177)
+![Ofc GitHub stats](https://github-readme-stats.vercel.app/api?username=OfcDiego\&rank_icon=github&theme=algolia&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfcDiego&theme=algolia&locale=es)](https://github.com/OfcDiego)
 ![counter](https://komarev.com/ghpvc/?username=Diego-YL-177&style=flat-square&theme=algolia&locale=es)
 </a>
 
 ### MI PROYECTO 💭
 
-<a href="https://github.com/Diego-YL-177/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Diego-YL-177&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
+<a href="https://github.com/OfcDiego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Diego-YL-177&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
 
 ### COLABORACIONES ✨️
 
