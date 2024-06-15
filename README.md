@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### MI PROYECTO 💭
 
-<a href="https://github.com/OfcDiego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Diego-YL-177&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
+<a href="https://github.com/OfcDiego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=YaemoriBot-MD&theme=algolia&locale=es)</a>
 
 ### COLABORACIONES ✨️
 
