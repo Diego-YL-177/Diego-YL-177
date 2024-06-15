@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 ![counter](https://komarev.com/ghpvc/?username=Diego-YL-177&style=flat-square&theme=algolia&locale=es)
 </a>
 
-### MI PROYECTO 💭
+### MIS PROYECTOS 💭
 
 <a href="https://github.com/OfcDiego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=YaemoriBot-MD&theme=algolia&locale=es)</a>
+
+<a href="https://github.com/OfcDiego/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
 
 ### COLABORACIONES ✨️
 
