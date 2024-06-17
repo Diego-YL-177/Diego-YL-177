@@ -29,30 +29,12 @@ Here are some ideas to get you started:
 
 ### MIS PROYECTOS 💭
 
-<a href="https://github.com/OfcDiego/YaemoriBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=YaemoriBot-MD&theme=algolia&locale=es)</a>
-
 <a href="https://github.com/OfcDiego/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
 
 ### COLABORACIONES ✨️
 
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=react&locale=es)</a>
-
-<a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=react&locale=es)</a>
-
-<a href="https://github.com/GataNina-Li/YartexBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=YartexBot-MD&theme=react&locale=es)</a>
-
-<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=react&locale=es)</a>
-
 <a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/Edwardofc/ATRO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=ATRO-BOT-MD&theme=react&locale=es)</a>
 
 <a href="https://github.com/MoonContentCreator/BixbyBot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MoonContentCreator&repo=BixbyBot-Md&theme=react&locale=es)</a>
 
 <a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/DanielDiod/DokiBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DanielDiod&repo=DokiBot&theme=react&locale=es)</a>
-
-<a href="https://github.com/elrebelde21/InfinityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=InfinityBot-MD&theme=algolia&locale=es)</a>
