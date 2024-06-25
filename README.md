@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/MoonContentCreator/BixbyBot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MoonContentCreator&repo=BixbyBot-Md&theme=react&locale=es)</a>
 
+<a href="https://github.com/HACHEJOTA/HachikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=HachikoBot-MD&theme=react&locale=es)</a>
+
 <a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=algolia&locale=es)</a>
