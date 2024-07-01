@@ -1,6 +1,6 @@
 ## MI PERFIL 🥷
 
-<a href="https://github.com/OfcDiego"><img src="https://cardivo.vercel.app/api?name=OfcDiego&description=Hola+Soy+Ofc+Diego.+Creador+de+YaemoriBot.&image=https://telegra.ph/file/56083be65f6d4ea5acc85.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ofc._.diego&whatsapp=Ofc_Diego&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/OfcDiego"><img src="https://cardivo.vercel.app/api?name=OfcDiego&description=Hola+Soy+Ofc+Diego.+Creador+de+LuffyBot.&image=https://telegra.ph/file/56083be65f6d4ea5acc85.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ofc._.diego&whatsapp=Ofc_Diego&pattern=leaf&colorPattern=%23eaeaea" /><a>
  
 
 <!--
