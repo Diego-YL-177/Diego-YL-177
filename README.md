@@ -29,11 +29,9 @@ Here are some ideas to get you started:
 
 ### MIS PROYECTOS 💭
 
+<a href="https://github.com/OfcDiego/LuffyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=LuffyBot-MD&theme=algolia&locale=es)</a>
+
 <a href="https://github.com/OfcDiego/EmiliaRezero-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=EmiliaRezero-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/OfcDiego/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
-
-<a href="https://github.com/OfcDiego/HachikoBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=HachikoBotLite-MD&theme=algolia&locale=es)</a>
 
 ### COLABORACIONES ✨️
 
